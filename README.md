@@ -1,1 +1,1 @@
-Repositorio dedicado a projetos web feitos na Trybe!
+Repository dedicated to web based projects made on Trybe's course!
